@@ -1,9 +1,6 @@
 
+![aplicação](https://github.com/MailsonSilva/CardapioApp/blob/master/app.gif)
 <h1 align="center">
-<br>
-  <img src="https://user-images.githubusercontent.com/18700076/81877477-999d3200-955b-11ea-9a45-ffaca6e2a77b.png"
- height="120" width="120">
-<br>
 <br>
 Cardápio App
 </h1>
@@ -16,18 +13,20 @@ Cardápio App
   </a>
 </p>
 
-
-![aplicação](https://github.com/MailsonSilva/CardapioApp/blob/master/app.gif)
-
-<hr />
-
 ## Features
 [//]: # (Add the features of your project here:)
 This app features all the latest tools and practices in mobile development!
 
-
+### Tecnologias utilizadas:
+- [Node.js](https://nodejs.org/en/)
+- [Expo](https://expo.io/)
+- [Express](https://expressjs.com/pt-br/)
+- [ExpressJs](https://expressjs.com/pt-br/)
+- [Nodemon](https://www.npmjs.com/package/nodemon)
+- [Axios](https://www.npmjs.com/package/axios)
+- [Cors](https://www.npmjs.com/package/cors)
+- [Jest](https://www.npmjs.com/package/jest)
 - ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
-- 💹 **Node Js** — A web framework for Node Js
 
 ## Getting started
 
