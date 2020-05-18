@@ -16,11 +16,7 @@ Cardápio App
   </a>
 </p>
 
-[//]: # (Add your gifs/images here:)
-<div>
-  <img src="IMAGE_1_URL" alt="demo" height="425">
-  <img src="IMAGE_2_URL" alt="demo" height="425">
-</div>
+![aplicação](https://github.com/MailsonSilva/CardapioApp/blob/master/app.gif)
 
 <hr />
 
