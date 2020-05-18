@@ -16,8 +16,9 @@ Cardápio App
   </a>
 </p>
 
+<p align="center">
 ![aplicação](https://github.com/MailsonSilva/CardapioApp/blob/master/app.gif)
-
+</p>
 <hr />
 
 ## Features
