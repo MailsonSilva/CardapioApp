@@ -13,11 +13,7 @@ Cardápio App
   </a>
 </p>
 
-## Features
-[//]: # (Add the features of your project here:)
-This app features all the latest tools and practices in mobile development!
-
-### Tecnologias utilizadas:
+### Technologies used:
 - [Node.js](https://nodejs.org/en/)
 - [Expo](https://expo.io/)
 - [Express](https://expressjs.com/pt-br/)
