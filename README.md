@@ -33,8 +33,9 @@ With features to create product and customer records, choose and sell products w
 ## Getting started
 
 - Instalar a ferramenta Knex.js
-	Rodar o comando para gerar as tabelas no banco:	- npx knex migrate:latest
-
+	Install the Knex.js tool Run the command to generate the tables in the database: npx knex migrate:latest
+- React navigation/ Drawer navigation: version 5x
+- SQLite database
 
 ## License
 
