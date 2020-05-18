@@ -22,7 +22,7 @@ Cardápio App
 - [Axios](https://www.npmjs.com/package/axios)
 - [Cors](https://www.npmjs.com/package/cors)
 - [Jest](https://www.npmjs.com/package/jest)
-- [Knex].(http://knexjs.org/)
+- [Knex](http://knexjs.org/)
 - ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
 
 ## Description
