@@ -13,7 +13,7 @@ Cardápio App
   </a>
 </p>
 
-### Technologies used:
+## Technologies used:
 - [Node.js](https://nodejs.org/en/)
 - [Expo](https://expo.io/)
 - [Express](https://expressjs.com/pt-br/)
@@ -23,6 +23,11 @@ Cardápio App
 - [Cors](https://www.npmjs.com/package/cors)
 - [Jest](https://www.npmjs.com/package/jest)
 - ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
+
+## Description
+The proposal is to replace the conventional menu.
+A mobile menu, aimed at snack bars and restaurants.
+With features to create product and customer records, choose and sell products with deliveries and values.
 
 ## Getting started
 
