@@ -22,6 +22,7 @@ Cardápio App
 - [Axios](https://www.npmjs.com/package/axios)
 - [Cors](https://www.npmjs.com/package/cors)
 - [Jest](https://www.npmjs.com/package/jest)
+- [Knex].(http://knexjs.org/)
 - ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
 
 ## Description
@@ -31,7 +32,8 @@ With features to create product and customer records, choose and sell products w
 
 ## Getting started
 
-Describe here the way to use/install your project
+- Instalar a ferramenta Knex.js
+	Rodar o comando para gerar as tabelas no banco:	- npx knex migrate:latest
 
 
 ## License
